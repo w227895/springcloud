@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springcloudapi" />
         <module name="springcloudconsumerdept80" />
+        <module name="springcloudconsumerdeptfeign" />
         <module name="springcloudeureka7001" />
         <module name="springcloudeureka7002" />
         <module name="springcloudeureka7003" />
@@ -20,6 +21,7 @@
       <module name="springcloud" target="1.5" />
       <module name="springcloudapi" target="1.5" />
       <module name="springcloudconsumerdept80" target="1.5" />
+      <module name="springcloudconsumerdeptfeign" target="1.5" />
       <module name="springcloudeureka7001" target="1.5" />
       <module name="springcloudeureka7002" target="1.5" />
       <module name="springcloudeureka7003" target="1.5" />

@@ -16,6 +16,7 @@
         <module>springcloudeureka7003</module>
         <module>springcloudproviderdept8002</module>
         <module>springcloudproviderdept8003</module>
+        <module>springcloudconsumerdeptfeign</module>
     </modules>
 
     <packaging>pom</packaging>
