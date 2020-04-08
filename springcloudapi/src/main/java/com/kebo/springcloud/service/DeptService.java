@@ -15,7 +15,7 @@ import java.util.List;
  * @create: 2020-04-06 10:53
  **/
 @Service
-@FeignClient(value = "SPRINGCLOUDPROVIDERDEPT")
+@FeignClient(value = "SPRINGCLOUDPROVIDERDEPT",fallbackFactory = DeptServiceFallBack.class)
 public interface DeptService {
 
     @PostMapping("/dept/add")

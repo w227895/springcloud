@@ -6,12 +6,15 @@
       <module fileurl="file://$PROJECT_DIR$/springcloudapi/springcloudapi.iml" filepath="$PROJECT_DIR$/springcloudapi/springcloudapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconsumerdept80/springcloudconsumerdept80.iml" filepath="$PROJECT_DIR$/springcloudconsumerdept80/springcloudconsumerdept80.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconsumerdeptfeign/springcloudconsumerdeptfeign.iml" filepath="$PROJECT_DIR$/springcloudconsumerdeptfeign/springcloudconsumerdeptfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudconsumerhystrixdashboard/springcloudconsumerhystrixdashboard.iml" filepath="$PROJECT_DIR$/springcloudconsumerhystrixdashboard/springcloudconsumerhystrixdashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudeureka7001/springcloudeureka7001.iml" filepath="$PROJECT_DIR$/springcloudeureka7001/springcloudeureka7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudeureka7002/springcloudeureka7002.iml" filepath="$PROJECT_DIR$/springcloudeureka7002/springcloudeureka7002.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudeureka7003/springcloudeureka7003.iml" filepath="$PROJECT_DIR$/springcloudeureka7003/springcloudeureka7003.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudproviderdept8001/springcloudproviderdept8001.iml" filepath="$PROJECT_DIR$/springcloudproviderdept8001/springcloudproviderdept8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudproviderdept8001hystrix/springcloudproviderdept8001hystrix.iml" filepath="$PROJECT_DIR$/springcloudproviderdept8001hystrix/springcloudproviderdept8001hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudproviderdept8002/springcloudproviderdept8002.iml" filepath="$PROJECT_DIR$/springcloudproviderdept8002/springcloudproviderdept8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudproviderdept8003/springcloudproviderdept8003.iml" filepath="$PROJECT_DIR$/springcloudproviderdept8003/springcloudproviderdept8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudzuul9527/springcloudzuul9527.iml" filepath="$PROJECT_DIR$/springcloudzuul9527/springcloudzuul9527.iml" />
     </modules>
   </component>
 </project>
