@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springcloudapi" />
+        <module name="springcloudconfigclient3355" />
+        <module name="springcloudconfigserver3344" />
         <module name="springcloudconsumerdept80" />
         <module name="springcloudconsumerdeptfeign" />
         <module name="springcloudconsumerhystrixdashboard" />
@@ -23,6 +25,8 @@
     <bytecodeTargetLevel>
       <module name="springcloud" target="1.5" />
       <module name="springcloudapi" target="1.5" />
+      <module name="springcloudconfigclient3355" target="1.5" />
+      <module name="springcloudconfigserver3344" target="1.5" />
       <module name="springcloudconsumerdept80" target="1.5" />
       <module name="springcloudconsumerdeptfeign" target="1.5" />
       <module name="springcloudconsumerhystrixdashboard" target="1.5" />
